@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 My name is Ale and I'm a SWE apprentice based in SF. Currently working on building my portfolio and learning.
-Currently, this profile is still a work in porgress. Keep an eye out for progress. 
+Currently, this profile is still a work in porgress. Keep an eye out for changes. 
 
 <img src="https://media.giphy.com/media/l3nWpMnnbQjaXtP7W/giphy.gif">
 
